@@ -4,11 +4,11 @@
         <title>Monofocus</title>
         <item>
             <title>0.9.1</title>
-            <pubDate>Fri, 16 Jan 2026 14:25:45 -0800</pubDate>
+            <pubDate>Fri, 16 Jan 2026 17:26:52 -0800</pubDate>
             <sparkle:version>0.9.1</sparkle:version>
             <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chakkaradeep/monofocus-releases/releases/download/beta-release/monofocus-beta-0.9.1.dmg" length="10528911" type="application/octet-stream" sparkle:edSignature="8Moyxb5EgMvyeGuqE4yTMbjWCuSrc8eKjP7/gmz5836aEUgE9RUO/N4ZcXVnImlQRMkjn3hJfbMtot6aOA7cCA=="/>
+            <enclosure url="https://github.com/chakkaradeep/monofocus-releases/releases/download/beta-release/monofocus-beta-0.9.1.dmg" length="10986347" type="application/octet-stream" sparkle:edSignature="owtpi+Aflfh/d/oLt3341q70zmdKwfiU3oSAwBoSyrGVVw3Qo7PDm2b/nZlWMrHX8gdwqxcsJO2uH2iUQg8nBw=="/>
         </item>
     </channel>
 </rss>
